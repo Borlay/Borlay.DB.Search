@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borlay.DB.Search", "Borlay.DB.Search\Borlay.DB.Search.csproj", "{FB07E131-D1EC-40AA-8267-7C2D6205D595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borlay.DB.Search.Tests", "Borlay.DB.Search.Tests\Borlay.DB.Search.Tests.csproj", "{A854BC9B-DF50-41DC-BA15-071644292AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB07E131-D1EC-40AA-8267-7C2D6205D595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB07E131-D1EC-40AA-8267-7C2D6205D595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB07E131-D1EC-40AA-8267-7C2D6205D595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB07E131-D1EC-40AA-8267-7C2D6205D595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A854BC9B-DF50-41DC-BA15-071644292AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A854BC9B-DF50-41DC-BA15-071644292AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A854BC9B-DF50-41DC-BA15-071644292AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A854BC9B-DF50-41DC-BA15-071644292AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C8E964-7801-4B90-A27A-C38C87994E40}
+	EndGlobalSection
+EndGlobal
